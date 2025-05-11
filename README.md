@@ -16,7 +16,7 @@
 ![Alt text](https://github.com/mirzazada6/network_lab1/blob/main/network_1_5.png?raw=true)
 
 # To display all current TCP connections
-![Alt text](https://github.com/mirzazada6/network_lab1/blob/main/network_1_6.png?raw=true)
+![Alt text](https://github.com/mirzazada6/network_lab1/blob/main/network_1_6.jpg?raw=true)
 
 # To find the currently logged-in username
 ![Alt text](https://github.com/mirzazada6/network_lab1/blob/main/network_1_7.png?raw=true)
@@ -37,7 +37,7 @@
 ![Alt text](https://github.com/mirzazada6/network_lab1/blob/main/network_1_11.png?raw=true)
 
 #  To display all current TCP connections
-![Alt text](https://github.com/mirzazada6/network_lab1/blob/main/network_1_12.png?raw=true)
+![Alt text](https://github.com/mirzazada6/network_lab1/blob/main/network_1_12.jpg?raw=true)
 
 #  Check if port 443 is open on `www.google.com`
 
@@ -60,7 +60,7 @@
 
 # To display all current TCP connections
 
-![Alt text](https://github.com/mirzazada6/network_lab1/blob/main/network_1_18.png?raw=true)
+![Alt text](https://github.com/mirzazada6/network_lab1/blob/main/network_1_18.jpg?raw=true)
 
 # Determine if a peer machine is online
 
